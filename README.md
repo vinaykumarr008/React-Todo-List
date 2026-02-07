@@ -17,7 +17,7 @@ A simple, To-Do List application built with React. Perfect for understanding the
 
 ## Screenshot
 
-![Todo List Screenshot](./screenshot.png)
+![Todo List Screenshot](./react_todo.png)
 
 ## How to Run Locally
 
