@@ -13,7 +13,7 @@ A simple, To-Do List application built with React. Perfect for understanding the
 
 ## Live Demo
 
-[View Live Demo](https://react-todo-list-byvinay.netlify.app/) *← Add your deployment link here*
+[View Live Demo](https://react-todo-list-byvinay.netlify.app/)
 
 ## Screenshot
 
