@@ -11,7 +11,9 @@ A simple, To-Do List application built with React. Perfect for understanding the
 - ✅ Responsive design
 - ✅ No external dependencies
 
-### 🔗 Live Demo: [https://react-todo-list-byvinay.netlify.app/)
+## Live Demo
+
+[View Live Demo](https://react-todo-list-byvinay.netlify.app/)
 
 ## Screenshot
 
